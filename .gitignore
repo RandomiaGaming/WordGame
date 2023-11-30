@@ -1,0 +1,6 @@
+.git/
+.vs/
+Temp/
+Library/
+obj/
+Logs/
